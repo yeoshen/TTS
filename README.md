@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## This is a python demonstration of the Bing/Project Oxford API TTS service.
 
 
@@ -24,3 +25,7 @@ visit http:\\localhost:5000\
 ```
 
 
+=======
+# TTS
+Reconocimiento de voz con Python
+>>>>>>> 3853cef385d2ba5b5d71b83acbefb6445d688526
