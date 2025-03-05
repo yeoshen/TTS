@@ -19,7 +19,7 @@ For example:
 subscription_key = "Your-Key-Goes-Here"
 '''
 
-subscription_key = "aba5a819a6424ae287dcf83869c9a263"
+subscription_key = ""
 language = "es-MX"
 voces = ["es-MX-Raul-Apollo","es-MX-HildaRUS"]
 voz = voces[1]
